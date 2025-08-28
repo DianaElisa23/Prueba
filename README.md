@@ -5,4 +5,4 @@ usuario y posteriormente la imprime en la terminal.
 
 ### Como ejecutarlo?
 
-
+javac actividad.java
